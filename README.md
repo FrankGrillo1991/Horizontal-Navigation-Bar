@@ -1,0 +1,1 @@
+Horizontal Navigation Bar developed with HTML, CSS & JavaScript
