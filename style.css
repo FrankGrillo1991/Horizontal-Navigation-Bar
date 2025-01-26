@@ -21,3 +21,8 @@ header {
     padding: 10px 0;
 }
 
+#logo {
+    float: left;
+    font-size: 1.5em;
+}
+
